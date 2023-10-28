@@ -45,5 +45,3 @@ The threshold for suspicious activity detection is currently set at 1000 packets
 - Visualization of traffic patterns.
 
 - Deep packet inspection for further analysis.
-
-You can copy the above markdown content and paste it directly into GitHub's editor when creating or editing the README.md file in your repository. It will render as intended with proper headers, code blocks, and lists.
