@@ -40,7 +40,10 @@ Review the output for insights into your network traffic.
 The threshold for suspicious activity detection is currently set at 1000 packets. This can be adjusted based on the user's requirements. The assumption is the capture is just a few seconds.
 
 ### Future Enhancements
-Integration with GeoIP databases for geographical location insights.
-Visualization of traffic patterns.
-Deep packet inspection for further analysis.
+- Integration with GeoIP databases for geographical location insights.
+
+- Visualization of traffic patterns.
+
+- Deep packet inspection for further analysis.
+
 You can copy the above markdown content and paste it directly into GitHub's editor when creating or editing the README.md file in your repository. It will render as intended with proper headers, code blocks, and lists.
