@@ -8,7 +8,7 @@ packet_timestamps = []
 http_traffic_found = False
 ip_counter = Counter()
 
-cap = pyshark.FileCapture('/Users/macabe/Desktop/home.pcapng')
+cap = pyshark.FileCapture('FILE_PATH_HERE')
 
 # SINGLE PASS THROUGH PACKETS
 for packet in cap:

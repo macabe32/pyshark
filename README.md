@@ -1,2 +1,11 @@
 # pyshark
-A collection of pyshark scripts
+
+# install
+
+pip install pyshark
+
+# Usage
+
+Co
+
+
